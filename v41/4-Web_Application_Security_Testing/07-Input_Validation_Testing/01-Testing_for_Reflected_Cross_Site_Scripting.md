@@ -188,7 +188,7 @@ If source code is available (white-box testing), all variables received from use
 
 ## Tools
 
-- [PHP Charset Encoder(PCE)](https://cybersecurity.wtf/encoder/)
+- [PHP Charset Encoder(PCE)](https://yehg.net/e/)
     This tool helps you encode arbitrary texts to and from 65 kinds of charsets. Also some encoding functions featured by JavaScript are provided.
 - [HackVertor](https://hackvertor.co.uk/public)
     It provides multiple dozens of flexible encoding for advanced string manipulation attacks.

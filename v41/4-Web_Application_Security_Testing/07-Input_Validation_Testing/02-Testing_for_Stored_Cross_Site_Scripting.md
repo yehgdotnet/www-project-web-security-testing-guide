@@ -177,7 +177,7 @@ The following table summarizes some special variables and functions to look at w
 
 ## Tools
 
-- [PHP Charset Encoder(PCE)](https://cybersecurity.wtf/encoder/)
+- [PHP Charset Encoder(PCE)](https://yehg.net/e/)
   PCE helps you encode arbitrary texts to and from 65 kinds of character sets that you can use in your customized payloads.
 - [Hackvertor](https://hackvertor.co.uk/public)
   Hackvertor is an online tool which allows many types of encoding and obfuscation of JavaScript (or any string input).
